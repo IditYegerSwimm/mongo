@@ -15,6 +15,7 @@ Test
 2. [Test 2](test-2.i76qad8r.sw.md)
 3. [Second playlist](second-playlist.0vvbq8aa.pl.sw.md)
 4. [Third playlist](third-playlist.p575ihwj.pl.sw.md)
+5. [Test 3](test-3.yw7bwilz.sw.md)
 
 
 <br/>
