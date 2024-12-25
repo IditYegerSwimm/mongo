@@ -14,9 +14,8 @@ This is a release day test.
 1. [Test doc 1](test-doc-1.iyqr20q1.sw.md)
 2. [Dev environment setup](dev-environment-setup.pv2k0ef3.sw.md)
 3. [Test doc 2](test-doc-2.ssd8l1us.sw.md)
-4. [Second playlist](second-playlist.0vvbq8aa.pl.sw.md)
-5. [Youtube video test](https://www.youtube.com/watch?v=wCu3jyiuwb4 )
-6. [Additional doc for playlist](additional-doc-for-playlist.e1borgyn.sw.md)
+4. [Youtube video test](https://www.youtube.com/watch?v=wCu3jyiuwb4 )
+5. [Additional doc for playlist](additional-doc-for-playlist.e1borgyn.sw.md)
 
 
 <br/>
